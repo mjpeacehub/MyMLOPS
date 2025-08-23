@@ -42,8 +42,10 @@ X_train , X_test , y_train , y_test = train_test_split(X, y, test_size = 0.10, r
 # print("----Ytrain----")
 # exit()
 
-from sklearn.preprocessing import StandardScaler
-scaler = StandardScaler()
+# from sklearn.preprocessing import StandardScaler
+# scaler = StandardScaler()
+from sklearn.preprocessing import RobustScaler
+scaler = RobustScaler()
 X_train_scaled = scaler.fit_transform(X_train)
 X_test_scaled = scaler.transform(X_test)
 
@@ -81,7 +83,17 @@ X_test = imputer.transform(X_test)
 # }
 
 # Train the model
-model = RandomForest(n_estimators=250, random_state=50,criterion='log_loss')
+#model = RandomForest(n_estimators=500, random_state=50,criterion='log_loss')
+model = RandomForest(
+    n_estimators=500,
+    max_depth=10,
+    min_samples_split=5,
+    min_samples_leaf=3,
+    max_features="sqrt",
+    class_weight="balanced",
+    criterion="log_loss",
+    random_state=10
+)
 model.fit(X_train, y_train)
 
 # Predict on the test set
