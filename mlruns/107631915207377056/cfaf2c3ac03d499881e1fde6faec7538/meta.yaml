@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mj_peace/Desktop/MyMLOPS/mlruns/107631915207377056/cfaf2c3ac03d499881e1fde6faec7538/artifacts
+end_time: 1756373928287
+entry_point_name: ''
+experiment_id: '107631915207377056'
+lifecycle_stage: active
+run_id: cfaf2c3ac03d499881e1fde6faec7538
+run_name: xgboost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756373927847
+status: 3
+tags: []
+user_id: mj_peace

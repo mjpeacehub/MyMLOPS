@@ -1,0 +1,10 @@
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestClassifier as RandomForest
+from sklearn.metrics import classification_report
+import pickle
+
+data = '/Users/mj_peace/Desktop/MyMLOPS/Datasets/heart.csv'
+df = pd.read_csv(data)
+print(df.columns)

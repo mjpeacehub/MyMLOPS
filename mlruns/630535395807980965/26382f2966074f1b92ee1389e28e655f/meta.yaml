@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mj_peace/Desktop/MyMLOPS/mlruns/630535395807980965/26382f2966074f1b92ee1389e28e655f/artifacts
+end_time: 1756005451074
+entry_point_name: ''
+experiment_id: '630535395807980965'
+lifecycle_stage: active
+run_id: 26382f2966074f1b92ee1389e28e655f
+run_name: adorable-hawk-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756005446149
+status: 3
+tags: []
+user_id: mj_peace

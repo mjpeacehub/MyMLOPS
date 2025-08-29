@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mj_peace/Desktop/MyMLOPS/mlruns/630535395807980965/ad20a63c9d484f1f879d3f42949d7238/artifacts
+end_time: 1756004987021
+entry_point_name: ''
+experiment_id: '630535395807980965'
+lifecycle_stage: active
+run_id: ad20a63c9d484f1f879d3f42949d7238
+run_name: angry-lamb-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756004982841
+status: 3
+tags: []
+user_id: mj_peace

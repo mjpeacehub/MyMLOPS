@@ -1,0 +1,10 @@
+artifact_location: file:///Users/mj_peace/Desktop/MyMLOPS/mlruns/630535395807980965/models/m-89d9053100e34abf94c8b4a4253937a0/artifacts
+creation_timestamp: 1756004982876
+experiment_id: '630535395807980965'
+last_updated_timestamp: 1756004986993
+model_id: m-89d9053100e34abf94c8b4a4253937a0
+model_type: null
+name: rf_diabetes_model
+source_run_id: ad20a63c9d484f1f879d3f42949d7238
+status: 2
+status_message: null

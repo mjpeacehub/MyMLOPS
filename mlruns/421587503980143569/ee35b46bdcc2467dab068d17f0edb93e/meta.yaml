@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mj_peace/Desktop/MyMLOPS/mlruns/421587503980143569/ee35b46bdcc2467dab068d17f0edb93e/artifacts
+end_time: 1756276366666
+entry_point_name: ''
+experiment_id: '421587503980143569'
+lifecycle_stage: active
+run_id: ee35b46bdcc2467dab068d17f0edb93e
+run_name: likeable-carp-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756276366635
+status: 3
+tags: []
+user_id: mj_peace

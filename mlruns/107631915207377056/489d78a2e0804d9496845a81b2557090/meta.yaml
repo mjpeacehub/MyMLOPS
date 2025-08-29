@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mj_peace/Desktop/MyMLOPS/mlruns/107631915207377056/489d78a2e0804d9496845a81b2557090/artifacts
+end_time: 1756374140490
+entry_point_name: ''
+experiment_id: '107631915207377056'
+lifecycle_stage: active
+run_id: 489d78a2e0804d9496845a81b2557090
+run_name: logistic_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756374140427
+status: 3
+tags: []
+user_id: mj_peace
