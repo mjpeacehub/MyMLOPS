@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mj_peace/Desktop/MyMLOPS/WineClassification/mlruns/584487518604603827/5b78a64418f54da1a81bbd6f3bf931e7/artifacts
+end_time: 1756604804390
+entry_point_name: ''
+experiment_id: '584487518604603827'
+lifecycle_stage: active
+run_id: 5b78a64418f54da1a81bbd6f3bf931e7
+run_name: random_forest_gridsearch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756604804304
+status: 3
+tags: []
+user_id: mj_peace

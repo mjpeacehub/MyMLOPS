@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mj_peace/Desktop/MyMLOPS/WineClassification/mlruns/584487518604603827/cb9b325bcdfa4d6aac6c85fb4f5ad393/artifacts
+end_time: 1756529217746
+entry_point_name: ''
+experiment_id: '584487518604603827'
+lifecycle_stage: active
+run_id: cb9b325bcdfa4d6aac6c85fb4f5ad393
+run_name: xgboost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756529217731
+status: 4
+tags: []
+user_id: mj_peace

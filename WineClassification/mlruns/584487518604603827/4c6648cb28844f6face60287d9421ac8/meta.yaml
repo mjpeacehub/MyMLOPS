@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mj_peace/Desktop/MyMLOPS/WineClassification/mlruns/584487518604603827/4c6648cb28844f6face60287d9421ac8/artifacts
+end_time: 1756529217561
+entry_point_name: ''
+experiment_id: '584487518604603827'
+lifecycle_stage: active
+run_id: 4c6648cb28844f6face60287d9421ac8
+run_name: logistic_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756529217492
+status: 3
+tags: []
+user_id: mj_peace
