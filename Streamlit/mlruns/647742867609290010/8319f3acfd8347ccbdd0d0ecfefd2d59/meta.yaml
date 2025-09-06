@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mj_peace/Desktop/MyMLOPS/Streamlit/mlruns/647742867609290010/8319f3acfd8347ccbdd0d0ecfefd2d59/artifacts
+end_time: 1756526645720
+entry_point_name: ''
+experiment_id: '647742867609290010'
+lifecycle_stage: active
+run_id: 8319f3acfd8347ccbdd0d0ecfefd2d59
+run_name: random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756526645532
+status: 3
+tags: []
+user_id: mj_peace
