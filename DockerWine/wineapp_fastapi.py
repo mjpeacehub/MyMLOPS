@@ -29,6 +29,10 @@ class WineInput(BaseModel):
 def read_root():
     return {"message": "Welcome to the Wine FastAPI app!"}
 
+# @app.get("/predict")
+# def get_predict():
+#     return {"message": "Use POST with JSON data to get predictions."}
+
 @app.post("/predict")
 def predict(data: WineInput):
     X = np.array([[data.fixed_acidity, data.volatile_acidity, data.citric_acid, data.residual_sugar,
